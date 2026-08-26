@@ -202,3 +202,20 @@ import java.util.*;
 // System.out.println("Hello Java!");
 
 // abstract
+
+//  Take a character and check if it’s a vowel or consonant.
+// public class day1 {
+//     public static void main(String[] args) {
+//       Scanner consoleScanner = new Scanner(System.in);
+//       char ch = consoleScanner.next().charAt(0);
+//       ch = Character.toLowerCase(ch);
+
+//      if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ){
+//       System.out.println("Vowel");
+//      }
+//      else{
+//       System.out.println("Not vowel");
+//      }
+//       consoleScanner.close();
+//     }
+// }
