@@ -225,7 +225,7 @@ import java.util.*;
 // 10. Take a character and check whether it’s uppercase, lowercase, a digit, or a special
 // character
 
-// public class Main {
+// public class day1 {
 //     public static void main(String[] args) {
 //      Scanner consoleScanner = new Scanner(System.in);
 //      char ch = consoleScanner.next().charAt(0);
@@ -251,7 +251,7 @@ import java.util.*;
 
 //  Take three sides and check if they form a valid triangle.
 
-// public class Main{
+// public class day1{
 //   public static void main (String[] args) {
 //     Scanner consoleScanner = new Scanner(System.in);
 //     int side1 = consoleScanner.nextInt();
@@ -266,4 +266,25 @@ import java.util.*;
 //     }
 
 //   }
+// }
+
+// 4. Check if one of two given numbers is a multiple of the other.
+
+// public class day1 {
+//     public static void main(String[] args) {
+//       Scanner consoleScanner = new Scanner(System.in);
+//       int number1 = consoleScanner.nextInt();
+//       int number2 = consoleScanner.nextInt();
+
+//       if(number1 % number2 == 0){
+//         System.out.println("is multiple");
+//       } 
+//       else if(number2 % number1 == 0) {
+//         System.out.println("is multiple");
+//       }
+//       else{
+//         System.out.println("Not multiple");
+//       }
+//       consoleScanner.close();
+//     }
 // }
