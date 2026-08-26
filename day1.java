@@ -246,3 +246,24 @@ import java.util.*;
 //      }
 //     }
 // }
+
+
+
+//  Take three sides and check if they form a valid triangle.
+
+// public class Main{
+//   public static void main (String[] args) {
+//     Scanner consoleScanner = new Scanner(System.in);
+//     int side1 = consoleScanner.nextInt();
+//     int side2 = consoleScanner.nextInt();
+//     int side3 = consoleScanner.nextInt();
+
+//     if((side1 + side2) > side3 && (side2 + side3 ) > side1 && (side3 + side1) > side2){
+//       System.out.println("valid triangle");
+//     }
+//     else {
+//       System.out.println("Not valid Triangle");
+//     }
+
+//   }
+// }
