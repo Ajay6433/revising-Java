@@ -198,3 +198,7 @@ import java.util.*;
 //       consoleScanner.close();
 //     }
 // }
+
+// System.out.println("Hello Java!");
+
+// abstract
