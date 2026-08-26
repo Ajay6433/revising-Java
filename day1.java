@@ -219,3 +219,30 @@ import java.util.*;
 //       consoleScanner.close();
 //     }
 // }
+
+
+
+// 10. Take a character and check whether it’s uppercase, lowercase, a digit, or a special
+// character
+
+// public class Main {
+//     public static void main(String[] args) {
+//      Scanner consoleScanner = new Scanner(System.in);
+//      char ch = consoleScanner.next().charAt(0);
+     
+//      if(ch == Character.toUpperCase(ch) && Character.isLetter(ch) ){
+//       System.out.println("Uppercase");
+//      }
+//      else if (ch == Character.toLowerCase(ch)&& Character.isLetter(ch) )
+//      {
+//       System.out.println("lowercase");
+//      }
+//      else if(Character.isDigit(ch))
+//      {
+//       System.out.println("Digit");
+//      }
+//      else {
+//       System.out.println("Special Character");
+//      }
+//     }
+// }
